@@ -132,3 +132,6 @@ class Program
 ---
 <picture> <img src="bandit.png/1.png"> 
 </picture>
+
+<picture> <img src="bandit.png/2.png"> 
+</picture>
